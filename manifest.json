@@ -1,1 +1,9 @@
-
+{
+"name": "Granefors",
+"version_number": "1.0.0",
+"website_url": "https://github.com/skadlig/Granefors",
+"description": "A Valheim mod pack for the server Granefors",
+"dependencies": [
+        ""
+    ]
+}
