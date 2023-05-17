@@ -1,10 +1,10 @@
 {
-"name": "Granefors",
-"version_number": "1.0.0",
-"website_url": "https://github.com/skadlig/Granefors",
-"description": "A Valheim mod pack for the server Granefors",
-"dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2105",
-"Grantapher-ValheimPlus_Grantapher_Temporary-9.9.15"
-    ]
+        "name": "Granefors",
+        "version_number": "1.0.0",
+        "website_url": "https://github.com/skadlig/Granefors",
+        "description": "A Valheim mod pack for the server Granefors",
+        "dependencies": [
+                "denikson-BepInExPack_Valheim-5.4.2105",
+                "Grantapher-ValheimPlus_Grantapher_Temporary-9.9.15"
+        ]
 }
