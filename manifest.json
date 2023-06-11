@@ -6,6 +6,13 @@
         "dependencies": [
                 "denikson-BepInExPack_Valheim-5.4.2105",
                 "Grantapher-ValheimPlus_Grantapher_Temporary-9.9.15",
-                "Blockheim-LetMeSleep-1.0.3"
+                "Blockheim-LetMeSleep-1.0.3",
+                "The_Bees_Decree-VALKEA-2.1.50",
+                "ValheimModding-Jotunn-2.11.7",
+                "OdinPlus-BuildIt-1.6.3",
+                "RockerKitten-BuildIt_CastleStructures-1.0.2",
+                "OdinPlus-Clutter-0.1.5",
+                "clevel-BeastsOfBurden-1.0.4",
+                "Azumatt-AzuExtendedPlayerInventory-1.0.8"
         ]
 }
