@@ -1,6 +1,6 @@
 {
         "name": "Granefors",
-        "version_number": "1.2.0",
+        "version_number": "1.2.1",
         "website_url": "https://github.com/skadlig/Granefors",
         "description": "A Valheim mod pack for the server Granefors",
         "dependencies": [
@@ -13,6 +13,7 @@
                 "RockerKitten-BuildIt_CastleStructures-1.0.2",
                 "OdinPlus-Clutter-0.1.5",
                 "clevel-BeastsOfBurden-1.0.4",
-                "Azumatt-AzuExtendedPlayerInventory-1.0.8"
+                "Azumatt-AzuExtendedPlayerInventory-1.0.8",
+                "ComfyMods-SearsCatalog-1.2.0"
         ]
 }
