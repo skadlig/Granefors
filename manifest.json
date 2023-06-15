@@ -1,18 +1,23 @@
 {
         "name": "Granefors",
-        "version_number": "1.3.0",
+        "version_number": "1.4.0",
         "website_url": "https://github.com/skadlig/Granefors",
         "description": "A Valheim mod pack for the server Granefors",
         "dependencies": [
                 "denikson-BepInExPack_Valheim-5.4.2105",
                 "Grantapher-ValheimPlus_Grantapher_Temporary-9.9.16",
-                "Blockheim-LetMeSleep-1.0.3",
-                "ValheimModding-Jotunn-2.12.0",
+                "ValheimModding-Jotunn-2.12.1",
                 "OdinPlus-BuildIt-1.6.3",
                 "RockerKitten-BuildIt_CastleStructures-1.0.2",
                 "OdinPlus-Clutter-0.1.5",
                 "clevel-BeastsOfBurden-1.0.4",
                 "Azumatt-AzuExtendedPlayerInventory-1.1.8",
-                "ComfyMods-SearsCatalog-1.2.0"
+                "ComfyMods-SearsCatalog-1.2.0",
+                "JereKuusela-Server_devcommands-1.52.0",
+                "JereKuusela-Cron_Job-1.3.0",
+                "coemt-Quick_Sleep-1.0.0",
+                "Azumatt-SleepSkip-1.0.6",
+                "CW_Jesse-BetterNetworking_Valheim-2.3.1",
+                "Digitalroot-Heightmap_Unlimited_Remake-1.3.7"
         ]
 }
