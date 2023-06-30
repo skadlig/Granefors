@@ -1,3 +1,4 @@
+Ver 1.5.0: Added the mods PlantEasily and PlantEverything  
 Ver 1.4.0: Added the following mods:  
             JereKuusela-Server_devcommands-1.52.0  
             JereKuusela-Cron_Job-1.3.0  
