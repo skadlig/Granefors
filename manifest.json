@@ -1,6 +1,6 @@
 {
         "name": "Granefors",
-        "version_number": "1.4.0",
+        "version_number": "1.5.0",
         "website_url": "https://github.com/skadlig/Granefors",
         "description": "A Valheim mod pack for the server Granefors",
         "dependencies": [
@@ -18,6 +18,8 @@
                 "coemt-Quick_Sleep-1.0.0",
                 "Azumatt-SleepSkip-1.0.6",
                 "CW_Jesse-BetterNetworking_Valheim-2.3.1",
-                "Digitalroot-Heightmap_Unlimited_Remake-1.3.7"
+                "Digitalroot-Heightmap_Unlimited_Remake-1.3.7",
+                "Advize-PlantEasily-1.4.4",
+                "Advize-PlantEverything-1.13.6"
         ]
 }
